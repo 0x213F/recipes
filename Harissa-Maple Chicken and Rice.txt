@@ -6,14 +6,14 @@ COOK TIME: 25 MINUTES
 TOTAL TIME: 40 MINUTES
 
 
-- - - - - - - - - - - - - - - - - - - - - -
-COOK RICE                 | AMOUNT         |
-- - - - - - - - - - - - - - - - - - - - - -
-Brown Rice                | 1 cup          |
-Peas                      | ½ frozen peas  |
-Carrots                   | 1 large carrot |
-Water                     | 2 cups         |
-Kosher Salt               | 1 pinch        |
+- - - - - - - - - - - - - - - - - - - - - - -
+COOK RICE                 | AMOUNT           |
+- - - - - - - - - - - - - - - - - - - - - - -
+Brown Rice                | 1 cup            |
+Peas                      | ½ frozen peas    |
+Carrots                   | 1 large carrot   |
+Water                     | 2 cups           |
+Kosher Salt               | 1 pinch          |
 
 1:   Peel, shred, and dry the carrot.
 2:   Fill medium pot with water, brown rice, salt, and carrots.
@@ -23,10 +23,10 @@ Kosher Salt               | 1 pinch        |
 4:   Thouroughly stir contents.
 
 
-- - - - - - - - - - - - - - - - - - - - - -
-COOK EGGPLANT             | AMOUNT         |
-- - - - - - - - - - - - - - - - - - - - - -
-Eggplant                  | ½ eggplant     |
+- - - - - - - - - - - - - - - - - - - - - - -
+COOK EGGPLANT             | AMOUNT           |
+- - - - - - - - - - - - - - - - - - - - - - -
+Eggplant                  | ½ eggplant       |
 
 1:   Preheat oven to 350°F.
 2:   Wash and dry the eggplant.
@@ -59,12 +59,12 @@ Hot Sauce                         | 1 tsp    |
 2:   Optionally mix in hot sauce to taste.
 
 
-- - - - - - - - - - - -
-PLATING                |
-- - - - - - - - - - - -
-Rice                   |
-Chicken                |
-Sauce                  |
+- - - - - - - - - - - - - - - - - - - - - - -
+PLATING                                      |
+- - - - - - - - - - - - - - - - - - - - - - -
+Rice                                         |
+Chicken                                      |
+Sauce                                        |
 
 1:   Create a base of rice on the plate.
 2:   Place eggplant on top of the rice.
